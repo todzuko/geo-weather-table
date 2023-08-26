@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Entities\\": "src/entities",
+      "Handlers\\": "src/handlers"
+    }
+  },
+  "require": {
+    "vlucas/phpdotenv": "^5.5"
+  }
+}
